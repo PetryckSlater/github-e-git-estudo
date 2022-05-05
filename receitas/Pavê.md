@@ -1,4 +1,4 @@
-# Receitas
+# Pavê 
 ## Ingredientes
 
 -   1 lata de creme de leite
